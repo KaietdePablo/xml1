@@ -1,0 +1,20 @@
+<!-- 
+Nombre: Kaiet de Pablo
+Curso: ASIR1
+Fecha: 20/03/2025
+Ejercicio: Ciudades
+ -->
+<Ciudades>
+<Ciudad continente="Asia">
+<Nombre>Nueva Delhi</Nombre>
+<País>India</País>
+</Ciudad>
+<Ciudad continente="Europa">
+<Nombre>Lisboa</Nombre>
+<País>Portugal</País>
+</Ciudad>
+<Ciudad continente="África">
+<Nombre>El Cairo</Nombre>
+<País>Egipto</País>
+</Ciudad>
+</Ciudades>

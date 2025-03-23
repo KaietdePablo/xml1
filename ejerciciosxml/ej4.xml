@@ -1,0 +1,29 @@
+<!-- 
+Nombre: Kaiet de Pablo
+Curso: ASIR1
+Fecha: 20/03/2025
+Ejercicio: Empleados
+ -->
+<Empleados>
+<Empleado>
+<Nombre>Ana</Nombre>
+<Apellido>García</Apellido>
+<Edad>30</Edad>
+<Departamento>Ventas</Departamento>
+<Cargo>Ejecutivo de ventas</Cargo>
+</Empleado>
+<Empleado>
+<Nombre>Luis</Nombre>
+<Apellido>Rodríguez</Apellido>
+<Edad>45</Edad>
+<Departamento>Finanzas</Departamento>
+<Cargo>Analista financiero</Cargo>
+</Empleado>
+<Empleado>
+<Nombre>María</Nombre>
+<Apellido>López</Apellido>
+<Edad>28</Edad>
+<Departamento>Marketing</Departamento>
+<Cargo>Especialista en redes sociales</Cargo>
+</Empleado>
+</Empleados>
